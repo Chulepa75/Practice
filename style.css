@@ -1,0 +1,25 @@
+body{
+    background-image:url(/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+pre{
+    border:1px solid rgba(0, 255, 242, 0.877);
+    margin-left:170mm;
+    margin-right:170mm;
+}
+a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+a:visited{
+    color:rgba(0, 0, 0, 0.733);
+    text-decoration: none;
+}
+a:active{
+    color:rgba(255, 0, 0, 0.993)
+}
+p{
+    margin-left:50px;
+}
